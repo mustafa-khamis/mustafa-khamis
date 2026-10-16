@@ -1,4 +1,4 @@
-# I'm Mustafa Khamis 
+# Mustafa Khamis 
 
 ### Full Stack Software Engineer | Backend Developer | Mobile App Developer
 
